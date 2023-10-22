@@ -1,0 +1,12 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Li"
+    given-names: "Jianing"
+    orcid: "https://orcid.org/0009-0005-6436-1192"
+title: "Sample Food Delivery GraphQL API"
+version: "1.0.0"
+doi: ""
+date-released: "2023-10-22"
+repository-code: "https://github.com/escobarflughafen/sample-food-delivery-api"
+license: "MIT"
